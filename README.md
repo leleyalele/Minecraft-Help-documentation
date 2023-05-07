@@ -1,0 +1,2 @@
+# Minecraft-Help-documentation
+本文档旨在帮助各位更好的游玩Minecraft并学习一些技巧
